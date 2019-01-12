@@ -38,4 +38,4 @@ Forked the [100DaysOfCode Git Repo by Alexander Kallaway](https://github.com/kal
 Read the rules and created my own custom repo [100_Days_Of_Code_Challenge](https://github.com/iamhrk/100_Days_Of_Code_Challenge).
 
 Wrote my first MardDown file and committed to the repo as the log of #100DaysOfCode.
-**Link to the Work:**- [100_Days_Of_Code_Challenge](https://github.com/iamhrk/100_Days_Of_Code_Challenge)
+**Link to the Work:**- [100_Days_Of_Code_Challenge](https://github.com/iamhrk/100-Days-Of-Code-Challenge)
